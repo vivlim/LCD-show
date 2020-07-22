@@ -75,4 +75,4 @@ echo "Too many parameters"
 fi
 
 echo "reboot now"
-sudo reboot
+#sudo reboot
